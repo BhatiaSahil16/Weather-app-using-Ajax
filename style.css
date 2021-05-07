@@ -1,0 +1,5 @@
+.custom {
+    background-image: url("weather2.jpg");
+    background-size: contain;
+    background-size: cover;
+}
